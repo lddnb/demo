@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/SoilderAndGun.dir/main.cpp.o  -o ../bin/SoilderAndGun -rdynamic ../lib/libSoilder_lib.a ../lib/libGun_lib.a 

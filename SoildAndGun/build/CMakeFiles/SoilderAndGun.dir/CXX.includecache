@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Gun.h
+string
+-
+
+../include/Soilder.h
+Gun.h
+../include/Gun.h
+memory
+-
+
+/home/ldd/github/demo/SoildAndGun/main.cpp
+Gun.h
+/home/ldd/github/demo/SoildAndGun/Gun.h
+Soilder.h
+/home/ldd/github/demo/SoildAndGun/Soilder.h
+iostream
+-
+

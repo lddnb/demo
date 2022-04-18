@@ -1,0 +1,5 @@
+/home/ldd/github/demo/SoildAndGun/build/CMakeFiles/edit_cache.dir
+/home/ldd/github/demo/SoildAndGun/build/CMakeFiles/Soilder_lib.dir
+/home/ldd/github/demo/SoildAndGun/build/CMakeFiles/SoilderAndGun.dir
+/home/ldd/github/demo/SoildAndGun/build/CMakeFiles/Gun_lib.dir
+/home/ldd/github/demo/SoildAndGun/build/CMakeFiles/rebuild_cache.dir

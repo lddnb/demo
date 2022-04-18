@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libSoilder_lib.a  CMakeFiles/Soilder_lib.dir/src/Soilder.cpp.o
+/usr/bin/ranlib ../lib/libSoilder_lib.a

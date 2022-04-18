@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libGun_lib.a  CMakeFiles/Gun_lib.dir/src/Gun.cpp.o
+/usr/bin/ranlib ../lib/libGun_lib.a
